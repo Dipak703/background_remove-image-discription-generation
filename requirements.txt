@@ -1,0 +1,13 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+requests==2.31.0
+Pillow==9.5.0
+transparent-background==1.2.0
+torch==2.0.1
+transformers==4.30.2
+langchain-ollama==0.1.0
+llama-index==0.6.10
+chromadb==0.3.27
+together==0.0.5
+python-dotenv==1.0.0
+pydantic==1.10.11
