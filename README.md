@@ -42,8 +42,8 @@ Ensure the following are installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd <project_name>
+git clone Dipak703/background_remove-image-discription-generation
+cd server
 ```
 
 ### Step 2: Install Dependencies
